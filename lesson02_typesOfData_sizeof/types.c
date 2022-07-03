@@ -14,7 +14,7 @@ int main(){
   char b[] = "abc";
   //布尔
   _Bool bl = 1;
-  // printf("%d\n",bl);
+  //查看长度
   printf("the size of short int is %ld\n",sizeof sInt);
   printf("the size of int is %ld\n",sizeof intNum);
   printf("the size of long int is %ld\n",sizeof lInt);
